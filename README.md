@@ -1,2 +1,2 @@
 # desafio-final-microsoft-copilot
-Repositório criado para o cumprimento do desafio final do Bootcamp Microsoft Copilot
+Repositório criado para o cumprimento do desafio final do Bootcamp Microsoft Copilot. Ao longo do processo, tive várias ideias acerca das possibilidades de uso da IA para me auxiliar no dia a dia. Sou professor e a extração de textos a paertir de imagens, a geração de imagens (por exemplo, imagens históricas), a elaboração de mapas a partir de prompts bbem elaborados e a elaboração de apresentações de slides a partir de conteúdos que eu á tenha produzido são algumas as ferramentas que me chamaram a atenção. 
